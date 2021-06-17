@@ -1,4 +1,4 @@
-# thought-school-register
+# Gedanken zu einem Schulverzeichnis 2.0
 
 Was wären deine Wünsche, wenn das [Schulverzeichnis von Berlin](https://www.berlin.de/sen/bildung/schule/berliner-schulen/schulverzeichnis/) neu gedacht werden darf? Alle Ideen werden [in den Issues](https://github.com/tursics/thought-school-register/issues) gesammelt.
 
